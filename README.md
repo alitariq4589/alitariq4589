@@ -4,9 +4,7 @@ microcontrollers, and STM32 microcontrollers. In hardware programming, I have wo
 I am currently on a long journey to become a top-notch in Embedded programming (which is also refered to as automation) and processor/Chip development.
 One can always reach me regarding projects related to Verilog HDL, Embedded C programming and their respective IDEs.
 
-Feel free to reach me on following E-mail for any query
 
-E-mail: alitariq4589@gmail.com
 
 <!---
 alitariq4589/alitariq4589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
