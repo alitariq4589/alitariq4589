@@ -1,4 +1,4 @@
-RISC-V Enthusiast interested in Linux, opensource tech and cloud automation.
+RISC-V Enthusiast interested in Linux, open-source tech, RTL design & verification.
 
 
 
