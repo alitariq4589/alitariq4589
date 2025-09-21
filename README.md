@@ -1,3 +1,12 @@
+### 📊 GitHub Stats  
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alitariq4589&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitariq4589&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
 # 👋 Hi, I'm Ali Tariq  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-tariq-23bb271b7/)
@@ -47,13 +56,6 @@ A platform enabling the open-source community to get access to **RISC-V boards**
 
 📌 [**GitHub Actions runner port for RISC-V**](https://github.com/alitariq4589/github-runner-riscv)  
 - Patched the upstream source code of the GitHub Actions runner package to run on RISC-V with .NET version 8.0.101
-
----
-
-### 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitariq4589&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alitariq4589&layout=compact&theme=tokyonight)  
 
 ---
 
