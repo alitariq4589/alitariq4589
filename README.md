@@ -1,8 +1,8 @@
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alitariq4589&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitariq4589&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alitariq4589&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alitariq4589&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
