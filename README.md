@@ -19,7 +19,7 @@ I'm a **Senior Software Engineer** and active **open-source contributor** specia
 
 💡 My work focuses on making the **RISC-V ecosystem more accessible, testable, and production-ready** by bridging low-level firmware with modern DevOps and cloud workflows.  
 
-**_[Visit this page for list of contributions to Linux Kernel]([url](https://alitariq4589.github.io/linux-kernel-contributions/))_**
+**_[Visit this page for list of contributions to Linux Kernel/Device Drivers](https://alitariq4589.github.io/linux-kernel-contributions/)_**
 
 ---
 
