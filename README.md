@@ -17,9 +17,14 @@
 ### 🚀 About Me  
 I'm a **Senior Software Engineer** and active **open-source contributor** specializing in **RISC-V architecture**, from **bootloaders** and **operating systems** to **Secure Cloud deployment** and **CI/CD automation**.  
 
-💡 My work focuses on making the **RISC-V ecosystem more accessible, testable, and production-ready** by bridging low-level firmware with modern DevOps and cloud workflows.  
+My work focuses on making the **RISC-V ecosystem more accessible, testable, and production-ready** by bridging low-level firmware (such as Linux kernel, U-Boot, device drivers) with modern DevOps (such as Github actions, GitLab CI, Jenkins CI etc.) and containerisation (such as docker, podman, LXC, Kubernetes) and cloud workflows.  
 
-**_[Visit this page for list of contributions to Linux Kernel/Device Drivers](https://alitariq4589.github.io/linux-kernel-contributions/)_**
+<div align="center">
+  <a href="https://alitariq4589.github.io/linux-kernel-contributions/">
+    <img src="https://img.shields.io/badge/LINUX%20KERNEL%20CONTRIBUTIONS-7aa2f7?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" height="45" />
+  </a>
+  <p><b>✨ Click the box above to view list of contributions in Linux kernel ✨</b></p>
+</div>
 
 ---
 
