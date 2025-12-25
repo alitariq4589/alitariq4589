@@ -15,9 +15,11 @@
 ---
 
 ### 🚀 About Me  
-I'm a **Senior Software Engineer** and active **open-source contributor** specializing in **RISC-V architecture**, from **bootloaders** to **operating systems** and **CI/CD automation**.  
+I'm a **Senior Software Engineer** and active **open-source contributor** specializing in **RISC-V architecture**, from **bootloaders** and **operating systems** to **Secure Cloud deployment** and **CI/CD automation**.  
 
 💡 My work focuses on making the **RISC-V ecosystem more accessible, testable, and production-ready** by bridging low-level firmware with modern DevOps and cloud workflows.  
+
+**_[Visit this page for list of contributions to Linux Kernel]([url](https://alitariq4589.github.io/linux-kernel-contributions/))_**
 
 ---
 
@@ -33,7 +35,8 @@ I'm a **Senior Software Engineer** and active **open-source contributor** specia
 - **Cloud & Infrastructure** → Docker, Ansible, CloudFormation, Prometheus, Grafana  
 - **Verification & RTL** → SystemVerilog, Verilog, simulation/debug, test plan creation  
 
-**🌱 Exploring & Expanding**  
+**🌱 Exploring & Expanding**
+- Linux Kernel and Linux device drivers
 - RISC-V ISA and upcoming extensions in new boards 
 - Automation at scale with open-source software 
 - Microkernel design and experimentation  
