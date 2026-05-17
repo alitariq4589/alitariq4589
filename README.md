@@ -12,18 +12,6 @@
 
 ---
 
-### About Me  
-I'm a certified **Senior Software Engineer** and active **open-source contributor** specializing in **RISC-V architecture**, from **bootloaders** and **operating systems** to **Secure Cloud deployment** and **CI/CD automation**.  
-
-In open source, my work focuses on making the **RISC-V ecosystem more accessible, testable, and production-ready** by bridging low-level firmware (such as Linux kernel, U-Boot, device drivers) with modern DevOps (such as Github actions, GitLab CI, Jenkins CI, etc.) and containerisation (such as Docker, podman, LXC, Kubernetes) and cloud workflows.  
-
-<div align="center">
-  <a href="https://alitariq4589.github.io/linux-kernel-contributions/">
-    <img src="https://img.shields.io/badge/LINUX%20KERNEL%20CONTRIBUTIONS-7aa2f7?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" height="45" />
-  </a>
-  <p><b> Click the box above to view a list of contributions in the Linux kernel </b></p>
-</div>
-
 ---
 
 ### Certifications
@@ -42,6 +30,20 @@ Linux Foundation, Cloud Native Computing Foundation, May 2026<br/>
 </td>
 </tr>
 </table>
+
+### About Me  
+I'm a certified **Senior Software Engineer** and active **open-source contributor** specializing in **RISC-V architecture**, from **bootloaders** and **operating systems** to **Secure Cloud deployment** and **CI/CD automation**.  
+
+In open source, my work focuses on making the **RISC-V ecosystem more accessible, testable, and production-ready** by bridging low-level firmware (such as Linux kernel, U-Boot, device drivers) with modern DevOps (such as Github actions, GitLab CI, Jenkins CI, etc.) and containerisation (such as Docker, podman, LXC, Kubernetes) and cloud workflows.  
+
+<div align="center">
+  <a href="https://alitariq4589.github.io/linux-kernel-contributions/">
+    <img src="https://img.shields.io/badge/LINUX%20KERNEL%20CONTRIBUTIONS-7aa2f7?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" height="45" />
+  </a>
+  <p><b> Click the box above to view a list of contributions in the Linux kernel </b></p>
+</div>
+
+
 
 ---
 
