@@ -33,7 +33,7 @@ In open source, my work focuses on making the **RISC-V ecosystem more accessible
 - **Bootloaders & OS Internals**: U-Boot, OpenSBI, Linux kernel bring-up, device trees    
 
 **Active Domains (Day-to-Day Engineering)**  
-- **CI/CD & Automation**: GitHub Actions, GitLab CI, Jenkins, LAVA KernelCI, Kubernetes worker nodes 
+- **CI/CD & Automation**: GitHub Actions, GitLab CI, Jenkins, LAVA KernelCI, maintaining distributed ISA Kubernetes worker nodes 
 - **Cloud & Infrastructure**: Docker, Ansible, CloudFormation, Terraform, Prometheus, Grafana  
 
 **Exploring & Expanding**
