@@ -10,9 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-tariq-23bb271b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/alitariq4589)
 
----
-
----
 
 ### Certifications
 
@@ -30,6 +27,8 @@ Linux Foundation, Cloud Native Computing Foundation, May 2026<br/>
 </td>
 </tr>
 </table>
+
+---
 
 ### About Me  
 I'm a certified **Senior Software Engineer** and active **open-source contributor** specializing in **RISC-V architecture**, from **bootloaders** and **operating systems** to **Secure Cloud deployment** and **CI/CD automation**.  
