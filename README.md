@@ -26,6 +26,25 @@ In open source, my work focuses on making the **RISC-V ecosystem more accessible
 
 ---
 
+### Certifications
+
+<table>
+<tr>
+<td align="center" width="180"><img src="assets/cka-logo.png" height="150"/></td>
+<td><strong>CNCF Certified Kubernetes Administrator</strong><br/>
+Linux Foundation, Cloud Native Computing Foundation, May 2026<br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="180"><img src="assets/rise-logo.svg" height="150"/></td>
+<td><strong>RISC-V Developer Appreciation Award</strong><br/>
+<a href="https://riseproject.dev/">RISE</a>, The Linux Foundation, July 2025<br/>
+</td>
+</tr>
+</table>
+
+---
+
 ### Where I’m Dwelling  
 
 **Core Focus (Deep Work & Contributions)**  
@@ -59,21 +78,4 @@ A platform enabling the open-source community to get access to **RISC-V boards**
 [**GitHub Actions runner port for RISC-V**](https://github.com/Cloud-V-10xE/github-runner-riscv)  
 - Patched the upstream source code of the GitHub Actions runner package to run on RISC-V with .NET version 10
 
----
 
-### Certifications
-
-<table>
-<tr>
-<td align="center" width="180"><img src="assets/cka-logo.png" height="150"/></td>
-<td><strong>CNCF Certified Kubernetes Administrator</strong><br/>
-Linux Foundation, Cloud Native Computing Foundation, May 2026<br/>
-</td>
-</tr>
-<tr>
-<td align="center" width="180"><img src="assets/rise-logo.svg" height="150"/></td>
-<td><strong>RISC-V Developer Appreciation Award</strong><br/>
-<a href="https://riseproject.dev/">RISE</a>, The Linux Foundation, July 2025<br/>
-</td>
-</tr>
-</table>
