@@ -5,11 +5,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alitariq4589&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-tariq-23bb271b7/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/alitariq4589)
-
 
 ### Certifications
 
