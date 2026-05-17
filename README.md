@@ -58,3 +58,9 @@ A platform enabling the open-source community to get access to **RISC-V boards**
 
 [**GitHub Actions runner port for RISC-V**](https://github.com/Cloud-V-10xE/github-runner-riscv)  
 - Patched the upstream source code of the GitHub Actions runner package to run on RISC-V with .NET version 10
+
+---
+
+### Certifications
+- [RISE Developer Appreciation Award](https://github.com/Rise-dev-appreciation/Rise-dev-appreciation/issues/14#issuecomment-3070263872) by [RISE](https://riseproject.dev/) (a project of Linux foundation)
+- CNCF Certified Kubernetes Administrator
