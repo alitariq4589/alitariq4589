@@ -65,13 +65,15 @@ A platform enabling the open-source community to get access to **RISC-V boards**
 
 <table>
 <tr>
-<td><img src="assets/cka-logo.png" height="150"/></td>
+<td align="center" width="180"><img src="assets/cka-logo.png" height="150"/></td>
 <td><strong>CNCF Certified Kubernetes Administrator</strong><br/>
 Linux Foundation, Cloud Native Computing Foundation, May 2026<br/>
+</td>
 </tr>
 <tr>
-<td><img src="assets/rise-logo.jpeg" height="150"/></td>
+<td align="center" width="180"><img src="assets/rise-logo.svg" height="130"/></td>
 <td><strong>RISC-V Developer Appreciation Award</strong><br/>
 <a href="https://riseproject.dev/">RISE</a>, The Linux Foundation, July 2025<br/>
+</td>
 </tr>
 </table>
