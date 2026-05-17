@@ -71,7 +71,7 @@ Linux Foundation, Cloud Native Computing Foundation, May 2026<br/>
 </td>
 </tr>
 <tr>
-<td align="center" width="180"><img src="assets/rise-logo.svg" height="130"/></td>
+<td align="center" width="180"><img src="assets/rise-logo.svg" height="150"/></td>
 <td><strong>RISC-V Developer Appreciation Award</strong><br/>
 <a href="https://riseproject.dev/">RISE</a>, The Linux Foundation, July 2025<br/>
 </td>
